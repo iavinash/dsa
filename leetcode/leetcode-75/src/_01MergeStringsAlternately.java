@@ -21,7 +21,7 @@
  * word2:    p   q   r
  * merged: a p b q c r
  */
-public class MergeStringsAlternately {
+public class _01MergeStringsAlternately {
     public String mergeAlternately(String word1, String word2) {
         char[] w1 = word1.toCharArray();
         char[] w2 = word2.toCharArray();
@@ -48,7 +48,7 @@ public class MergeStringsAlternately {
         return new String(res);
     }
     public static void main(String[] args) {
-        MergeStringsAlternately m = new MergeStringsAlternately();
+        _01MergeStringsAlternately m = new _01MergeStringsAlternately();
         System.out.println(" ");
         System.out.println(m.mergeAlternately("abcd", "pq"));
     }

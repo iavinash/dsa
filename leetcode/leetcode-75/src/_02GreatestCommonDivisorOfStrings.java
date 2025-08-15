@@ -17,7 +17,7 @@
  * Input: str1 = "ABABAB", str2 = "ABAB"
  * Output: "AB"
  */
-public class GreatestCommonDivisorOfStrings {
+public class _02GreatestCommonDivisorOfStrings {
     public String gcdOfStrings(String str1, String str2) {
         str1 = str1.toLowerCase();
         str2 = str2.toLowerCase();
@@ -28,7 +28,7 @@ public class GreatestCommonDivisorOfStrings {
     }
 
     public static void main(String[] args) {
-        GreatestCommonDivisorOfStrings gcd = new GreatestCommonDivisorOfStrings();
-        System.out.println(gcd.gcdOfStrings("abcdefghij", "abcdefghij"));
+        _02GreatestCommonDivisorOfStrings gcd = new _02GreatestCommonDivisorOfStrings();
+        System.out.println(gcd.gcdOfStrings("abcdefghij", "abc"));
     }
 }
