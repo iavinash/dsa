@@ -69,7 +69,7 @@ All code is written in **Java**. Each file includes comments about my approach, 
 | Day | Problems | Status |
 | :-- | :-- | :-- |
 | Day 1 | 1768, 1071 | ✅ Done |
-| Day 2 | 167, 283, 125 | ⚙️ In Progress |
+| Day 2 | 1431 | ⚙️ In Progress |
 | ... | ... | ... |
 
 (I update this table as I go.)
