@@ -1,23 +1,27 @@
-# LeetCode 75 – My Java Solutions
+# NeetCode Blind 75 – My Java Solutions
 
 Hey there! 👋
-This repo is my personal workspace for tackling the LeetCode 75 challenge (in Java). Here I’m sharing my daily problem-solving journey, including code, thoughts, and a bit of struggle and fun along the way.
+This repo is my personal workspace for solving the **NeetCode Blind 75 DSA challenge** in **Java**. Here I’m sharing my daily problem-solving journey, including code, thoughts, and a bit of struggle and fun along the way.
 
 ***
 
 ## What’s Inside
 
-This project is organized by study days, and covers the full spectrum of the LeetCode 75 plan:
+This repository follows the **official NeetCode Blind 75 list**, covering these major categories:
 
-- Arrays \& Strings
-- Two pointers
-- Linked Lists
-- Stack, Queue
-- Binary Trees, BST
-- Sliding Window, Kadane’s
-- Hashing, Prefix/Suffix
-- Graphs
-- Dynamic Programming
+- **Arrays & Hashing**
+- **Two Pointers**
+- **Sliding Window**
+- **Stack**
+- **Binary Search**
+- **Linked List**
+- **Trees**
+- **Backtracking**
+- **Dynamic Programming (1D & 2D)**
+- **Graphs**
+- **Greedy**
+- **Intervals**
+- **Math & Geometry**
 
 All code is written in **Java**. Each file includes comments about my approach, edge cases, and test examples.
 
@@ -26,16 +30,44 @@ All code is written in **Java**. Each file includes comments about my approach, 
 ## 📂 Repository Structure
 
 ```
-/LeetCode75-DSA
-    /Day01
-        - Problem1.java
-        - Problem2.java
-    /Day02
-        - Problem3.java
-        ...
-    /Daynn
-        - ...
-    README.md
+/NeetCode
+    /-Blind75
+        /arrays_hashing
+            _01ContainsDuplicate.java
+            _02ValidAnagram.java
+            ...
+        /two_pointers
+            _10ValidPalindrome.java
+            _11TwoSumIIInputArrayIsSorted.java
+            ...
+        /sliding_window
+            ...
+        /stack
+            ...
+        /binary_search
+            ...
+        /linked_list
+            ...
+        /trees
+            ...
+        /Heap_PriorityQueue
+            ...
+        /backtracking
+            ...
+        /tries
+            ...
+        /graphs
+            ...
+        /dp_1d
+            ...    
+        /dp_2d
+            ...
+        /greedy
+            ...
+        /intervals
+            ...
+        /math_geometry
+            ...
 ```
 
 - Organized by study day or topic
@@ -48,9 +80,9 @@ All code is written in **Java**. Each file includes comments about my approach, 
 
 ## 🏹 How I Solve
 
-- Review the problem statement on LeetCode
+- Review the problem statement on NeetCode
 - Analyze constraints and optimal approaches
-- Check embedded comments for sample inputs, tricky edge cases, and personal notes.
+- Check embedded comments for sample inputs and personal notes.
 - Most solutions run directly in a Java IDE or using standard javac/java commands.
 
 ***
@@ -66,11 +98,12 @@ All code is written in **Java**. Each file includes comments about my approach, 
 
 ## 🤖 Progress Tracking
 
-| Day | Problems | Status |
-| :-- | :-- | :-- |
-| Day 1 | 1768, 1071 | ✅ Done |
-| Day 2 | 1431 | ⚙️ In Progress |
-| ... | ... | ... |
+| Day   | Problems             | Status |
+|:------|:---------------------| :-- |
+| Day 1 | Contains Duplicate, Valid Anagram | ✅ Done |
+| Day 2 | Two Sum                 | ✅ Done |
+| Day 3 | Group Anagrams          | ⚙️ In Progress |
+| ...   | ...                  | ... |
 
 (I update this table as I go.)
 
@@ -85,7 +118,7 @@ Feel free to fork, star, or submit pull requests for improvements!
 
 ## 📚 References
 
-- [LeetCode Study Plan – LeetCode 75](https://leetcode.com/study-plan/leetcode-75/)
+- [NeetCode – Blind 75](https://neetcode.io/practice?tab=blind75)
 - [Official Java Documentation](https://docs.oracle.com/javase/8/docs/)
 - [GeeksforGeeks DSA tutorials](https://www.geeksforgeeks.org/data-structures/)
 
