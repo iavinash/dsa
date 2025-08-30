@@ -98,12 +98,13 @@ All code is written in **Java**. Each file includes comments about my approach, 
 
 ## 🤖 Progress Tracking
 
-| Day   | Problems             | Status |
-|:------|:---------------------| :-- |
-| Day 1 | Contains Duplicate, Valid Anagram | ✅ Done |
-| Day 2 | Two Sum                 | ✅ Done |
-| Day 3 | Group Anagrams          | ⚙️ In Progress |
-| ...   | ...                  | ... |
+| Day   | Problems              | Status |
+|:------|:----------------------| :-- |
+| Day 1 | Contains Duplicate    | ✅ Done |
+| Day 2 | Valid Anagram         | ✅ Done |
+| Day 3 | Two Sum               | ✅ Done |
+| Day 4 | Group Anagrams        | ⚙️ In Progress |
+| ...   | ...                   | ... |
 
 (I update this table as I go.)
 
