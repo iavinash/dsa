@@ -18,16 +18,16 @@ Click a category to expand and view the problem list and status:
 <details>
 <summary><strong>📦 Array & Hashing</strong></summary>
 
-| # | Problem                      | Status    | Solution                                                                                                              |
-|---|------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------|
-| 1 | Contains Duplicate           | ✅ Done    | [Contains Duplicate.java](https://github.com/iavinash/dsa/blob/main/neetcode/blind-75/src/_01ContainsDuplicate.java)  |
-| 2 | Valid Anagram                | ✅ Done    | -                                                                                                                     |
-| 3 | Two Sum                      | ✅ Done    | -                                                                                                                     |
-| 4 | Group Anagrams               | ❌ Pending | -                                                                                                                     |
-| 5 | Top K Frequent Elements      | ❌ Pending | -                                                                                                                     |
-| 6 | Product of Array Except Self | ❌ Pending | -                                                                                                                     |
-| 7 | Encode and Decode Strings    | ❌ Pending | -                                                                                                                     |
-| 8 | Longest Consecutive Sequence | ❌ Pending | -                                                                                                                     |
+| # | Problem                      | Status    | Solution                                                                                                             |
+|---|------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------|
+| 1 | Contains Duplicate           | ✅ Done    | [Contains Duplicate.java](https://github.com/iavinash/dsa/blob/main/neetcode/blind-75/src/_01ContainsDuplicate.java) |
+| 2 | Valid Anagram                | ✅ Done    | [Valid Anagram.java](https://github.com/iavinash/dsa/blob/main/neetcode/blind-75/src/_02ValidAnagram.java)           |
+| 3 | Two Sum                      | ✅ Done    | [Two Sum.java](https://github.com/iavinash/dsa/blob/main/neetcode/blind-75/src/_03TwoSum.java)                       |
+| 4 | Group Anagrams               | ❌ Pending | -                                                                                                                    |
+| 5 | Top K Frequent Elements      | ❌ Pending | -                                                                                                                    |
+| 6 | Product of Array Except Self | ❌ Pending | -                                                                                                                    |
+| 7 | Encode and Decode Strings    | ❌ Pending | -                                                                                                                    |
+| 8 | Longest Consecutive Sequence | ❌ Pending | -                                                                                                                    |
 
 </details>
 
